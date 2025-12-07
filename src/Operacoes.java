@@ -5,10 +5,10 @@ public class Operacoes {
     public static int subtrair(int a, int b){
         return a - b;
     }
-    public static double multiplicar(double a, double b){
+    public static int multiplicar(int a, int b){
         return a * b;
     }
-    public static double dividir(double a, double b){
+    public static int dividir(int a, int b){
         return a / b;
     }
 }
