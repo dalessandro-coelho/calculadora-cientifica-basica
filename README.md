@@ -18,6 +18,7 @@ Este projeto é uma calculadora simples feita em Java, que permite realizar oper
 ---
 
 ⚠️ Tratamento de Exceções
+
 ✔ Entrada inválida
 Se o usuário digitar algo que não é número, o programa continua sem travar.
 
