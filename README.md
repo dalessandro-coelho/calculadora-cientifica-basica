@@ -1,4 +1,5 @@
 🧮 Calculadora Científica (Java)
+
 Este projeto é uma calculadora simples feita em Java, que permite realizar operações matemáticas básicas com tratamento de exceções para evitar erros comuns como entradas inválidas e divisão por zero.
 
 ---
